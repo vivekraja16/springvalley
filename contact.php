@@ -12,7 +12,7 @@
                 </div>
                 <div class="col-md-8">
                     <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-                    <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.321937391384!2d79.14048269999996!3d12.951239649999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad4763830dd76b%3A0x853516a82dcf43b1!2sB%26B+Builders!5e0!3m2!1sen!2sin!4v1413131011683" width="100%" height="300" frameborder="0" style="border:0"></iframe>
                 </div>
                 <div class="col-md-4">
                     <p>Phone:
