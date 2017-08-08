@@ -6,7 +6,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-	background: url('../img/bg.png') no-repeat center center fixed;
+	background: url('../img/bg.jpg') no-repeat center top fixed;
 	/*background-color:#ececec;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -35,6 +35,14 @@ p {
 hr {
     max-width: 400px;
     border-color: #999999;
+}
+
+.container{
+  max-width: 900px;
+}
+
+#lightgallery > div{
+  margin-bottom: 30px;
 }
 
 .brand,
