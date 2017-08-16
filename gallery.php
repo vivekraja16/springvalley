@@ -5,10 +5,10 @@
         <div class="row">
             <div class="box" id="lightgallery">
                 <?php for($i=1;$i<=24;$i++) { ?>
-	              <div class="col-sm-3" data-src="Images/Spring<?php echo $i; ?>.JPG" data-sub-html="Title">
+	              <div class="col-sm-3" data-src="Images/Spring<?php echo $i; ?>.JPG" data-sub-html="Spring<?php echo $i;?>">
                   <a href="">
                     <img class="img-responsive img-border img-full" src="Images/Spring<?php echo $i;?>.JPG" alt="">
-                    <span>Title</span>
+                    <span>Spring<?php echo $i;?></span>
                   </a>
                 </div>
 				<?php } ?>
