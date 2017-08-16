@@ -16,15 +16,15 @@
                 </div>
                 <div class="col-md-4">
                     <p>Phone:
-                        <strong>+91-416-2242366</strong>
+                        <strong>+91 9442632278, +91 9585295852</strong>
                     </p>
                     <p>Email:
-                        <strong><a href="mailto:info@bbbuilders.in">info@bbbuilders.in</a></strong>
+                        <strong><a href="mailto:info@tulipsproperties.in">info@tulipsproperties.in</a></strong>
                     </p>
                     <p>Address:
 					<br>2, 13th East Cross Road,
 					<br>Gandhi Nagar, Vellore - 632 006
-					<br>Phone: +91-416-2242366
+					<br>Phone: +91 9442632278, +91 9585295852
 
                     </p>
                 </div>
