@@ -56,10 +56,10 @@
                         <strong>Retirement Haven</strong>
                     </h2>
                     <hr>
-                    <img class="img-responsive img-border img-left" src="img/old-man-old-age-happy.jpg" width="350" alt="">
+                    <!-- <img class="img-responsive img-border img-left" src="img/old-man-old-age-happy.jpg" width="350" alt=""> -->
                     <hr class="visible-xs">
                     <p>Spring Valley retirement home is a haven for senior citizens, a place for the elderly to enjoy their sunset years in a friendly, safe and comfortable environment.</p>
-
+                    <iframe width="100%" height="500" src="https://www.youtube.com/embed/1z9rYXyw9EA" frameborder="0" allowfullscreen></iframe>
 
                 </div>
             </div>
