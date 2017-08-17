@@ -13,6 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/business-casual.css" rel="stylesheet">
@@ -32,7 +33,17 @@
 </head>
 
 <body>
-
+  <div class="container topStrip hidden-xs">
+    <div class="row">
+      <div class="col-sm-6">
+        <span class="fa fa-map-marker"></span> #2, 13th East Cross Road, Gandhi Nagar, Vellore - 632 006
+      </div>
+      <div class="col-sm-6 text-right">
+        <a href="tel: +914162242366"><span class="fa fa-phone"></span> +91-416-2242366</a> |
+        <a href="mailto: info@bbbuilders.in"><span class="fa fa-envelope"></span> info@bbbuilders.in</a>
+      </div>
+    </div>
+  </div>
     <div class="brand" style="margin-bottom:15px;">
     <img src="./img/springvalley-logo.png" width="250"/></div>
     <!-- <div class="address-bar">B & B builders group</div> -->
